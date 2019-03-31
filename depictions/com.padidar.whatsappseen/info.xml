@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>A simple tweak which can hide blue tick.</shortDescription>
+	<shortDescription>Read Receipt Disabler.</shortDescription>
 	<descriptionlist>
-		<description>A simple tweak.</description>
+		<description>WhatsAppSeen Tweak Which can Disable Read Receipts.</description>
 		<!-- <description>It has more description lines.</description> -->
 		<!-- <description><![CDATA[
 		You can also have<br/>
