@@ -1,6 +1,6 @@
 <package>
-	<id>com.nima.recordora</id>
-	<name>Recordora</name>
+	<id>com.nima.pianoacademy</id>
+	<name>Piano Academy</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Recordora++.</shortDescription>
+	<shortDescription>Piano Academy++.</shortDescription>
 	<descriptionlist>
-		<description>Premium Recordora</description>
+		<description>Premium Piano Academy</description>
 		<!-- <description>It has more description lines.</description> -->
 		<!-- <description><![CDATA[
 		You can also have<br/>
